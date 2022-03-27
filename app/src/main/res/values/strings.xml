@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="mnama">Masukan Nama</string>
+    <string name="mpassword">Masukan Password</string>
+    <string name="bSignin">Sign In</string>
+    <string name="mregister">Register</string>
+
+    <string name="rnama">Masukan Nama</string>
+    <string name="remail">Masukan Email</string>
+    <string name="rpassword">Masukan Password</string>
+    <string name="rrpassword">Masukan Password</string>
+    <string name="bregister">Register</string>
+
+    <string name="htaks">Masukan Taks</string>
+    <string name="hjenis">Masukan Jenis Taks</string>
+    <string name="htime">Masukan Lama Taks</string>
+
+    <string name="hltaks">Tampilkan Taks</string>
+    <string name="hljenis">Tampilkan Jenis</string>
+    <string name="hltime">Tampilkan Time</string>
+</resources>
